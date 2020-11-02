@@ -1,7 +1,7 @@
 # Leecode
 
 
-In this project, I mainly do some topics on leecode. These topics are classified by type, including 
+In this project, I mainly do some topics on leecode. These questions are classified by type, including 
 + array 
 + breadth first search
 + binary search
@@ -18,4 +18,10 @@ In this project, I mainly do some topics on leecode. These topics are classified
 + string
 + tree
 + double pointer
+
+
 etc. For some more difficult algorithms, training questions will be a little more, such as dynamic programming.
+
+
+There is a one-to-one correspondence between these questions and Leecode. For example, P81 corresponds to question 81 of Leecode. P16dot19 corresponds to 16.19 in the interview questions.
+
