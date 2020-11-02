@@ -1,7 +1,7 @@
 # Leecode
 
 
-In this project, I mainly do some topics on leecode. These questions are classified by type, including 
+In this project, I mainly do some questions on leecode. These questions are classified by type, including 
 + array 
 + breadth first search
 + binary search
